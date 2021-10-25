@@ -1,1 +1,12 @@
 # CS-250-Module-8-Journal
+
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+     There are countless ways to interpret user needs, however, I found that the best way to ascertain the needs of the user is through the information gathering stage. I feel that coming in with boilerplate questions might not always be the best approach. To get the most from these questions, it is best to know a little about the user and what they are. Once you have this personalized information, you can apply that knowledge to your program as well as determining if someone would be a better fit for your team based off of their possible common interest and knowledge about the product being built. Once you have this information, you can begin the process. One part of this process is creating user stories based off of the product backlog. This means that you have the ability to outline the specific needs of the user, the program, and the team members. These user stories will serve to provide team members with a list of required and completable tasks to perform a certain function within the program or system. 
+
+
+How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+     I used to just try to code on the fly, however, now I find that the best way to create a program is to give myself an outline of what I need to accomplish. I treat this as one big user story. I also now break up the program development into individual sprints, constantly testing code as I go along and working out any bugs to ensure that all sprint products mesh together in the way I want them to. In the future I hope to work on a personal project and break up those sprints into the different roles involved with Scrum-Agile (product owner, scrum master, developer, and tester), completing all associated tasks for each team member. 
+
+
+What does it mean to be a good team member in software development?
+     A good team member is someone who has the ability to get their work done and help other when they can. This doesn't mean that they should allow their own worlk to suffer as a result of helping a team member out, however, the products of every team member are necessary to complete the project as a whole. Certainily these members should be helping others to avoid needing this help in the future as well. Another good trait of a good team member is meaningful contribution to team events and giving as well as receiving constructuve criticism. 
